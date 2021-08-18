@@ -25,5 +25,7 @@ A. 스프링 환경 구축(가이드와는 다른 standalone 버전)
 -특이사항
 
 1 Workbench의 DB가 정상적으로 들어가지 않았음
+
 2 스프링 버전이 standalone버전
+
 3 MovieVO 작성 완료하였지만 다른 자바 파일에 적용되지 않음
