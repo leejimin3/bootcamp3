@@ -1,18 +1,46 @@
-1Â÷°úÁ¦
-1. Github °èÁ¤ »ý¼º
-A. °èÁ¤ »ý¼º ¿Ï·á
-B. ¼Ò½ºÆ®¸® UI ´Ù¿î·Îµå&»ç¿ë
-2. JDK/Tomcat/mybatis Eclipse ¼³Ä¡
-A. JDK 1.8 ¼³Ä¡¿Ï·á
-B. Tomcat 9.0 ¼³Ä¡¿Ï·á
-C. Mybatis Eclipse  ¼³Ä¡¿Ï·á
-3. Mybatis ¼³Ä¡
-A. Myvatis 3.5.7 ¼³Ä¡¿Ï·á
-4. ½ºÇÁ¸µ È¯°æ ±¸Ãàvs½ºÇÁ¸µºÎÆ® È¯°æ ±¸Ãà ºñ±³
-A. ½ºÇÁ¸µ È¯°æ ±¸Ãà(°¡ÀÌµå¿Í´Â ´Ù¸¥ standalone ¹öÀü)
+1ì°¨ê³¼ì œ
 
--Æ¯ÀÌ»çÇ×
+1. Github ê³„ì • ìƒì„±
 
-1 WorkbenchÀÇ DB°¡ Á¤»óÀûÀ¸·Î µé¾î°¡Áö ¾Ê¾ÒÀ½
-2 ½ºÇÁ¸µ ¹öÀüÀÌ standalone¹öÀü
-3 MovieOV ÀÛ¼º ¿Ï·áÇÏ¿´Áö¸¸ ´Ù¸¥ ÀÚ¹Ù ÆÄÀÏ¿¡ Àû¿ëµÇÁö ¾ÊÀ½
+A. ê³„ì • ìƒì„± ì™„ë£Œ
+
+B. ì†ŒìŠ¤íŠ¸ë¦¬ UI ë‹¤ìš´ë¡œë“œ&ì‚¬ìš©
+
+2. JDK/Tomcat/mybatis Eclipse ì„¤ì¹˜
+
+A. JDK 1.8 ì„¤ì¹˜ì™„ë£Œ
+
+B. Tomcat 9.0 ì„¤ì¹˜ì™„ë£Œ
+
+C. Mybatis Eclipse  ì„¤ì¹˜ì™„ë£Œ
+
+3. Mybatis ì„¤ì¹˜
+
+A. Myvatis 3.5.7 ì„¤ì¹˜ì™„ë£Œ
+
+4. ìŠ¤í”„ë§ í™˜ê²½ êµ¬ì¶•vsìŠ¤í”„ë§ë¶€íŠ¸ í™˜ê²½ êµ¬ì¶• ë¹„êµ
+
+A. ìŠ¤í”„ë§ í™˜ê²½ êµ¬ì¶•(ê°€ì´ë“œì™€ëŠ” ë‹¤ë¥¸ standalone ë²„ì „)
+
+-íŠ¹ì´ì‚¬í•­
+
+1 Workbenchì˜ DBê°€ ì •ìƒì ìœ¼ë¡œ ë“¤ì–´ê°€ì§€ ì•Šì•˜ìŒ
+
+2 ìŠ¤í”„ë§ ë²„ì „ì´ standaloneë²„ì „
+
+3 MovieVO ìž‘ì„± ì™„ë£Œí•˜ì˜€ì§€ë§Œ ë‹¤ë¥¸ ìžë°” íŒŒì¼ì— ì ìš©ë˜ì§€ ì•ŠìŒ
+
+-
+
+-
+
+-
+
+-
+
+2ì°¨ ê³¼ì œ
+
+1. Api ë¬¸ì„œë¥¼ ìž‘ì„±í•˜ì—¬ ê¹ƒí—ˆë¸Œì— ì—…ë¡œë“œ ì™„ë£Œ
+
+
+
